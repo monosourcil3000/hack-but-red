@@ -1,7 +1,7 @@
 [data-mode="fo76"], [data-mode="fo76"] * {
    font-family: "Share Tech Mono", monospace;
 
-   cursor: url(https://github.com/monosourcil3000/hack-but-red/blob/main/styles/cursor/fo76.svg), auto;
+   cursor: url(../cursor/fo76.svg), auto;
 
    color: #fc0007;
    background-color: #000000;
